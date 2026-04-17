@@ -44,6 +44,7 @@ Tools & Resources
   Admin back-end dashboard:
   
   ![Admin dashboard](./app/assets/images/admin.png)
+  25
 
 
 
